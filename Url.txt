@@ -1,0 +1,3 @@
+Action	Expected Result
+Go to Navigation bar enter ->https://internet.frontier.com/	Frontier Commincations Landing page (https://internet.frontier.com/)display no errors
+Click on object-> (Frontier Communications Logo)	Frontier Commincations Landing page (https://internet.frontier.com/)display no errors
