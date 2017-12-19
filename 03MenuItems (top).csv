@@ -1,0 +1,71 @@
+﻿Action,Expected Result
+Header: Plan & Pricing,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select Plan & Pricing ,"Text should display ""Plan & Pricing"""
+Verify Header Font size >Select Plan & Pricing ,Display Font size: 1.4 rem
+Verify Header Color-> Select Plan & Pricing,Display Color: #5a5a5a;
+Verify Header display-> Select Plan & Pricing,Display  block
+Verify Hover -> Hover over Plan & Pricing,"Cursor should display as pointer until hovering over Plan & Pricing display a hand CSS. Drop down box should display with the following: 
+-> All Plans
+->Bundles
+->Frontiers FIOS Bundles
+->Frontiers Secure
+"
+Verify navigation  link->  Go to Plan & Pricing ->Click on All Plans,Follow webpage should display with no errors->https://internet.frontier.com/plans-pricing.html
+Navigate back to Landing page from All Plans-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify navigation  link->  Go to Plan & Pricing ->Click on Bundles,Follow webpage should display with no errors->https://internet.frontier.com/bundles/
+Navigate back to Landing page from Bundles-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify navigation  link->  Go to Plan & Pricing ->Click on Frontiers FiOS Bundles,Follow webpage should display with no errors->https://internet.frontier.com/bundles/fios/
+Navigate back to Landing page from FiOS Bundles-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify navigation  link->  Go to Plan & Pricing ->Click on Frontiers Secure,Follow webpage should display with no errors->https://internet.frontier.com/security.html
+Navigate back to Landing page from Business-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Header: Internet,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  Internet,"Text should display ""Internet"""
+Verify Header Font size >Select  Internet,Display Font size: 1.4 rem
+Verify Header Color-> Select  Internet,Display Color: #5a5a5a;
+Verify Header display-> Select  Internet,Display  block
+Verify Hover -> Hover over Plan & Pricing,"Cursor should display as pointer until hovering over TV display a hand CSS. Drop down box should display with the following: 
+-> High Speed  Internet
+-> FiOS Internet
+
+"
+Verify navigation  link->  Go to Plan & Pricing ->Click on High Speed  Internet,Follow webpage should display with no errors->https://internet.frontier.com/services/
+Navigate back to Landing page from All Plans-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify navigation  link->  Go to Plan & Pricing ->Click on FiOS Internet,Follow webpage should display with no errors->https://internet.frontier.com/fios.html
+Navigate back to Landing page from Bundles-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Header: TV,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select TV,"Text should display ""TV"""
+Verify Header Font size >Select  TV,Display Font size: 1.4 rem
+Verify Header Color-> Select  TV,Display Color: #5a5a5a;
+Verify Header display-> Select  TV,Display  block
+Verify Hover -> Hover over Plan & Pricing,"Cursor should display as pointer until hovering over TV display a hand CSS. Drop down box should display with the following: 
+-> FiOS TV
+-> Vantage TV"
+Verify navigation  link->  Go to Plan & Pricing ->Click on FiOS TV,Follow webpage should display with no errors->https://internet.frontier.com/fios.html
+Navigate back to Landing page from All Plans-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify navigation  link->  Go to Plan & Pricing ->Click on Vantage TV,Follow webpage should display with no errors->https://internet.frontier.com/vantage-tv/
+Navigate back to Landing page from Bundles-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Header: Phone,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  Phone-> ,"Text should display ""Phone"""
+Verify Header Font size >Select  Phone,Display Font size: 1.4 rem
+Verify Header Color-> Select Phone,Display Color: #5a5a5a;
+Verify Header display-> Select Phone,Display  block
+Verify Hover -> Hover over Phone,Cursor should display as pointer until hovering over Phone display a hand CSS
+Verify navigation to Phone link->  Click on Phone,Follow webpage should display with no errors->https://internet.frontier.com/phone.html
+Navigate back to Landing page from Phone-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Header: Availability,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  Availability-> ,"Text should display ""Availability"""
+Verify Header Font size >Select  Availability,Display Font size: 1.4 rem
+Verify Header Color-> Select Availability,Display Color: #5a5a5a;
+Verify Header display-> Select Availability,Display  block
+Verify Hover -> Hover over Availability,Cursor should display as pointer until hovering over Availability display a hand CSS
+Verify navigation to Availability link->  Click on Phone,Follow webpage should display with no errors->https://internet.frontier.com/local/
+Navigate back to Landing page from Availability-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
