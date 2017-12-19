@@ -1,0 +1,24 @@
+﻿Action,Expected Result
+Header: Banner Countdown,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  We're Open!,"Text should display ""We're Open"""
+Verify Header Font size >Select  We're Open!,Display Font size: 1.4 rem
+Verify Font Color > Select We're Open!,Display Font Color: #ffffff
+Verity Font Style>Select We're Open!,Display Font style: Ariel
+Verify Header timer format> Hours Minutes Seconds,"Text should display"" hn Hours mm Minutes snn Seconds"""
+Verify Header timer Countdown> Hours Minutes Seconds,"Text should Countdown"" hn Hours mm Minutes snn Seconds"""
+Verify Header timer Countdown Closing> Hours Minutes Seconds,"Text should Countdown"" hn Hours mm Minutes snn Seconds"" Should not display at closing time"
+Verify Header Font size >Hours Minutes Seconds,Display Font size: 1.4 rem
+Verify Font Color > Select Hours Minutes Seconds!,Display Font Color: #ffffff
+Verity Font Style>Select Hours Minutes Seconds,Display Font style: Ariel
+Verify Header Spelling> Select Call to Order!,"Text should display ""Call to Order"""
+Verify Header Font size >Select  Call to Order!,Display Font size: 1.4 rem
+Verify Font Color > Select Call to Order!,Display Font Color: #ffffff
+Verify Font Style>Select Call to Order,Display Font style: Ariel
+Verify Telephone Icon-> Select Telephone Icon,Display Telephone icon
+Verify Header Telephone Format> Select 18557765479,Telephone should display -> 1.###.###.### 
+Verify Header Telephone number Select 18557765479,Telephone should display -> tel:8557765479
+Verify Header Telephone Protocol link-> Select 18557765479,Open URL:Tel Protocol-> Link to associated app
+Verify Telephone Header Font size >Select 18557765479,Display Font size: 1.4 rem
+Verify Telephone Font Color > Select 18557765479,Display Font Color: #ffffff
+Verity Font Style>Select 18557765479,Display Font style: Ariel
