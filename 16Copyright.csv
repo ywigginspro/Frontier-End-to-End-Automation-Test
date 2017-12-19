@@ -1,0 +1,9 @@
+﻿Action,Expected Result
+Frontier Communication Corporation- Copyright,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Company Copyright>  © 2017 Frontier Communications Corporation.,Text should display -> © 2017 Frontier Communications Corporation.
+Verify Header Font size >© 2017 Frontier Communications Corporation.,Display Font size:8 px
+Verify Header Color->© 2017 Frontier Communications Corporation.,"Display Color: rgb (90,90,90)"
+,
+,
+,
