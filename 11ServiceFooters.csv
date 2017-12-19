@@ -1,0 +1,77 @@
+﻿Action,Expected Result
+Footer: Service,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Footer Spelling>  Select Service,"Text should display ""Service"""
+Verify Header Font size >Select Service,Display Font size: 1.8 rem
+Verify Header Color-> Select Service,Display Color: #58595b;Bold 
+,
+Navigation Footer(Service): High-Speed Internet,
+Verify Navigation Header display-> Select High-Speed Internet,"Display Text should display ""High-Speed Internet"""
+Verify Header Font size >Select High-Speed Internet,Display Font size: 1.4rem
+Verify Font Color >High-Speed Internet,Display Font Color: #5a5a5a
+Verify Hover -> Hover over High-Speed Internet,Cursor should display as pointer until hovering over High-Speed Internet display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Service ->Click on High-speed Internet,Follow webpage should display with no errors->https://internet.frontier.com/services/
+Navigate back to Landing page from Services-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Footer (Service):  Home Phone,
+Verify Navigation Header display-> Select Home Phone,"Display Text should display ""Home Phone"""
+Verify Header Font size >Select Home Phone,Display Font size: 1.4rem
+Verify Font Color >Home Phone,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Home Phone,Cursor should display as pointer until hovering over Home Phone display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Service ->Click on Home Phone,Follow webpage should display with no errors-https://internet.frontier.com/phone.html
+Navigate back to Landing page from Phone-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Footer (Service):  FiOS Services,
+Verify Navigation Header display-> Select FiOS Services,"Display Text should display ""FiOS Services"""
+Verify Header Font size >Select  FiOS Services,Display Font size: 1.4rem
+Verify Font Color > FiOS Services,Display Font Color: #5a5a5a
+Verify Hover -> Hover over FiOS Services,Cursor should display as pointer until hovering over FiOS Services display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Service ->Click on FiOS Services,Follow webpage should display with no errors-https://internet.frontier.com/fios.html
+Navigate back to Landing page from FiOS-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Footer (Service): Existing Customers,
+Verify Navigation Header display-> Select Existing Customers,"Display Text should display ""Existing Customers"""
+Verify Header Font size >Select Existing Customers,Display Font size: 1.4rem
+Verify Font Color >Existing Customers,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Existing Customers,Cursor should display as pointer until hovering over Existing Customers display a hand CSS. Text color should highlight color:#ff0000;
+Verify navigation  link->  Go to Service ->Click on Existing Customers,Follow webpage should display with no errors-https://internet.frontier.com/existing-customers.html
+Navigate back to Landing page from FiOS-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Footer (Service): My Accounts,
+Verify Navigation Header display-> Select My Accounts,"Display Text should display ""My Accounts"""
+Verify Header Font size >Select My Accounts,Display Font size: 1.4rem
+Verify Font Color >My Accounts,Display Font Color: #5a5a5a
+Verify Hover -> Hover over My Accounts,Cursor should display as pointer until hovering over My Accounts display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Service ->Click on My Accounts,Follow webpage should display with no errors-https://frontier.com/login/
+Navigate back to Landing page from My Accounts-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
