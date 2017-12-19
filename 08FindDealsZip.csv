@@ -1,0 +1,32 @@
+﻿Action,Expected Result
+Headline: Find Deals in your area,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Commincations Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  Find deals in your area,"Text should display ""Find deals in your are"""
+Verify Header Font size/style >Select  Find deals in your area,Display Font size: 3 rem;Ariel;text-align: Center
+Verify Header Color-> Select Find deals in your area,Display Color: #58595b; Bold
+Verify Header Spelling>  Select  Want to see pricing and deals specifically available at the address you want to set up service at? Simply enter your ZIP code to see what you're eligible for.,"Text should display ""Want to see pricing and deals specifically available at the address you want to set up service at? Simply enter your ZIP code to see what you're eligible for."""
+Verify Header Font size >Select Want to see pricing and deals specifically available at the address you want to set up service at? Simply enter your ZIP code to see what you're eligible for.,Display Font size:14 px;Ariel: Align: Center
+Verify Header Color-> Want to see pricing and deals specifically available at the address you want to set up service at? Simply enter your ZIP code to see what you're eligible for.,Display Color: #5a5a5a; Gray-dark
+Verify Header Spelling>  Select Enter your Zip to Find Deals in your area.,"Text should display ""Select Enter Your Zip to Find Deals in your area."""
+Verify Header Font size/style >Select  Enter your Zip to Find Deals in your area.,Display Font size: 378px;Ariel;text-align: Center
+Verify Header Color-> Select  Enter your Zip to Find Deals in your area.,Display Color: #58595b; Bold
+Verify White Text box ->  Find deals in your area,"Display : min-width: 1025px;align; Left; Color: rgb 90,90,90"
+Verify Media Image displays> Select Image,"Media only screen and (min-width: 1025px) 
+background-image: url(.png);"
+,
+Zip Code Section/Check Availability: Text Box,
+"Verify  Spelling Place holder> ""ZIP Code""","Text should display ""ZIP Code"""
+Verify Border-> Zip Code,box-sizing: border-box; margin: 15px; White text box
+Verify button Spelling>  Select  Check Availability,"Text should display ""Check Availability"""
+Verify Header Font size/Style >Select  Check Availability,"Display Font size: 1.4 rem;Ariel;  line-height: 5.5rem, Align: Center"
+Verify Background Color-> Select  Check Availability,Display Color: #f3323d;
+Verify Header Shape display-> Select  Check Availability,Display  block
+Verify Hover -> Hover over  Check Availability,Cursor should display as pointer until hovering over  Check Availability display a hand CSS
+,
+Zip Code Section/Check Availability: Functionality,
+Verify Zip Code numeric 5 digits->  Enter 5 digit zip code Click Check Availability,Webpage should display with no errors->https://internet.frontier.com/plans-pricing.html
+Navigate back to Landing page from Business-> Click on Frontier logo,Frontier Commincations Landing page (https://internet.frontier.com/)displays no errors
+Verify Zip Code numeric 1 -4 digits->  Enter 1 digit zip code ->Click Check Availability (Repeating up to 4 digits),"Warning message should display "" Please enter 5 digit zip code."" Zip code box clears and no navigation to https://internet.frontier.com/plans-pricing.html"
+"Verify Zip Code Alpha/Symbols-> Enter ""w$W"" zip code->Click Check Availability ","Warning message should display "" Please enter 5 digit zip code."" Zip code box clears and no navigation to https://internet.frontier.com/plans-pricing.html"
+Verify Zip Code empty-> Zip code field null-> Click Check Availability ,"Warning message should display "" Please enter 5 digit zip code."" Zip code box clears and no navigation to https://internet.frontier.com/plans-pricing.html"
+Verify Zip Code numeric 5< digits->  Enter 123456 digit zip code ->Click Check Availability (Enter more than 20 plus digits),"Warning message should display "" Please enter 5 digit zip code."" Zip code box clears and no navigation to https://internet.frontier.com/plans-pricing.html"
