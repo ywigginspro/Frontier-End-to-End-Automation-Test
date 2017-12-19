@@ -1,0 +1,40 @@
+﻿Action,Expected Result
+Header: Business,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  Business -> ,"Text should display ""Business"""
+Verify Header Font size >Select  Business ,Display Font size: 1.4 rem
+Verify Header Color-> Select Business,Display Color: #5a5a5a;
+Verify Header display-> Select Business,Display  block
+Verify Hover -> Hover over Business,Cursor should display as pointer until hovering over Business display a hand CSS
+Verify navigation to business link->  Click on Business ,Follow webpage should display with no errors->https://internet.frontier.com/business/
+Navigate back to Landing page from Business-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Header: Existing Customer,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  Existing Customers-> ,"Text should display ""Existing Customers"""
+Verify Header Font size >Select  Existing Customers,Display Font size: 1.4 rem
+Verify Header Color-> Select Existing Customers,Display Color: #5a5a5a;
+Verify Header display-> Select Existing Customers,Display  block
+Verify Hover -> Hover over Existing Customers,Cursor should display as pointer until hovering over Existing Customers display a hand CSS
+Verify navigation to business link->  Click on Existing Customers,Follow webpage should display with no errors->https://internet.frontier.com/existing-customers.html
+Navigate back to Landing page from Existing Customers-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Header: My Accounts,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  My Accounts-> ,"Text should display ""My Accounts"""
+Verify Header Font size >Select  My Accounts,Display Font size: 1.4 rem
+Verify Header Color-> Select My Accounts,Display Color: #5a5a5a;
+Verify Header display-> Select My Accounts,Display  block
+Verify Hover -> Hover over My Accounts,Cursor should display as pointer until hovering over My Accounts display a hand CSS
+Verify navigation to business link->  Click on My Accounts,Follow webpage should display with no errors->https://frontier.com/login?target=2f6163636f756e74
+Navigate back to Landing page from My Accounts-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+,
+Header: Espansol,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select   Espansol-> ,"Text should display ""My Accounts"""
+Verify Header Font size >Select   Espansol,Display Font size: 1.4 rem
+Verify Header Color-> Select  Espansol,Display Color: #5a5a5a;
+Verify Header display-> Select  Espansol,Display  block
+Verify Hover -> Hover over  Espansol,Cursor should display as pointer until hovering over  Espansol display a hand CSS
+Verify action to Espansol link->  Click on  Espansol,Webpage language should display in Espansol
