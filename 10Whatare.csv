@@ -1,0 +1,16 @@
+﻿Action,Expected Result
+Header: What are you waiting for?,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  What are you waiting for?,"Text should display ""What are you waiting for?"""
+Verify Header Font size >Select What are you waiting for?,Display Font size: 15px
+Verify Font Color > What are you waiting for?,Display Font Color: #ffffff
+Verify Font Color background\size> Text box ,"Display background Color: rgb(243, 50, 61);"
+Verify Header Spelling>   Give one of our sales experts a call and switch to Frontier today!,"Text should display ""Give one of our sales experts a call and switch to Frontier today?"""
+Verity Font Style>Select Give one of our sales experts a call and switch to Frontier today!,Display Font style: Ariel
+Verify Telephone Icon-> Select Telephone Icon,Display Telephone icon
+Verify Header Telephone Format> Select 18557765479,Telephone should display -> 1.###.###.### 
+Verify Header Telephone number Select 18557765479,Telephone should display -> tel:8557765479
+Verify Header Telephone Protocol link-> Select 18557765479,Open URL:Tel Protocol-> Link to associated app
+Verify Telephone Header Font size >Select 18557765479,Display Font size: 1.4 rem
+Verify Telephone Font Color > Select 18557765479,Display Font Color: #ffffff
+Verity Font Style>Select 18557765479,Display Font style: Ariel
