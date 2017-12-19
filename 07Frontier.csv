@@ -1,0 +1,75 @@
+﻿Action,Expected Result
+Headline: Frontier Communications: Internet is just the beginning.,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header Spelling>  Select  Frontier Communications: Internet is just the beginning. ,"Text should display ""Frontier Communications: Internet is just the beginning."""
+Verify Header Font size/style >Select Frontier Communications: Internet is just the beginning.,Display Font size: 3 rem;Ariel;text-align: Center
+Verify Header Color-> Select Frontier Communications: Internet is just the beginning.,Display Color: #58595b; Bold
+"Verify Header Spelling>  Select Frontier offers customizable plans and affordable prices on home services you need like Internet, TV, and Voice Service.","Text should display ""Frontier offers customizable plans and affordable prices on home services you need like Internet, TV, and Voice Service."""
+"Verify Header Font size >Select  Frontier offers customizable plans and affordable prices on home services you need like Internet, TV, and Voice Service",Display Font size:  2 rem;Ariel: Align: Center
+"Verify Header Color-> Select  Frontier offers customizable plans and affordable prices on home services you need like Internet, TV, and Voice Service",Display Color: #5a5a5a; Gray-dark
+,
+Product Section: High-Speed Internet,
+Verify Header Spelling>  Select  High-Speed Internet,"Text should display ""High-Speed Internet"""
+Verify Icon(Laptop)-> Select Internet laptop image,Icon graphic display laptop
+Verify Border-> High-Speed Internet,box-sizing: border-box; margin: 15px 0px;padding: 0px;border: 0px; 
+"Verify (checked section) Spelling>  Browse, game, stream and more","Text should display "" Browse, game, stream and more"""
+"Verify (checked section) Font size/style > Browse, game, stream and more",Display Font size: 14px;Ariel;checkmark icon
+"Verify (checked section) Color-> Select  Browse, game, stream and more","Display Color: rgb(90, 90, 90)"
+Verify (checked section) Spelling> Connect your favorite devices,"Text should display ""Connect your favorite devices"""
+Verify (checked section) Font size/style > Connect your favorite devices,Display Font size: 14px;Ariel;Checkmark icon
+Verify (checked section) Color-> Select  Connect your favorite devices,"Display Color: rgb(90, 90, 90)"
+Verify Header Spelling>  Select  Shop Internet,"Text should display ""Shop Internet"""
+Verify Header Font size/Style >Select  Shop Internet,Display Font size: 1.4 rem;Ariel
+Verify Background Color-> Select Shop Internet,Display Color: #f3323d;
+Verify Header Shape display-> Select Shop Internet,Display should be Block
+Verify Hover -> Hover over Shop Internet,Cursor should display as pointer until hovering over Shop Internet display a hand CSS
+Verify navigation to Shop Online link->  Click on Shop Internet,Webpage should display with no errors->https://internet.frontier.com/services/
+Navigate back to Landing page from Business-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Product Section: TV Internet,
+Verify Header Spelling>  Select TV,"Text should display ""TV"""
+Verify Icon(TV)-> Select Internet TV image,Icon graphic display TV
+Verify Border-> TV,box-sizing: border-box; margin: 15px 0px;padding: 0px;border: 0px; 
+Verify (checked section) Spelling>  Exclusive premium channel offers,"Text should display "" Exclusive premium channel offers"""
+Verify (checked section) Font size/style > Exclusive premium channel offers,Display Font size: 14px;Ariel;checkmark icon
+Verify (checked section) Color-> Select  Exclusive premium channel offers,"Display Color: rgb(90, 90, 90)"
+Verify (checked section) Spelling> Take entertainment with you,"Text should display ""Connect your favorite devices"""
+Verify (checked section) Font size/style > Take entertainment with you,Display Font size: 14px;Ariel;Checkmark icon
+Verify (checked section) Color-> Take entertainment with you,"Display Color: rgb(90, 90, 90)"
+Verify Header Spelling>  Select TV,"Text should display ""TV"""
+Verify Header Font size >Select  TV,Display Font size: 1.4 rem
+Verify Header Color-> Select  TV,Display Color: #5a5a5a;
+Verify Header display-> Select  TV,Display  block
+Verify Hover -> Hover over Shop TV ,Cursor should display as pointer until hovering over TV display a hand CSS. 
+Verify navigation  link-> Click on Shop TV,Follow webpage should display with no errors->https://internet.frontier.com/fios.html
+Navigate back to Landing page from Bundles-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Product Section: Voice Service (Phone),
+Verify Header Spelling>  Select Voice Service,"Text should display ""Phone"""
+Verify Icon(Phone)-> Select Internet Phone image,Icon graphic display Phone
+Verify Border-> Phone,box-sizing: border-box; margin: 15px 0px;padding: 0px;border: 0px; 
+Verify (checked section) Spelling>  Popular calling features,"Text should display "" Popular calling features"""
+Verify (checked section) Font size/style > Popular calling features,Display Font size: 14px;Ariel;checkmark icon
+Verify (checked section) Color-> Select Popular calling features,"Display Color: rgb(90, 90, 90)"
+Verify (checked section) Spelling> Prices to fit your budget,"Text should display ""Connect your favorite devices"""
+Verify (checked section) Font size/style > Prices to fit your budget,Display Font size: 14px;Ariel;Checkmark icon
+Verify (checked section) Color-> Prices to fit your budget,"Display Color: rgb(90, 90, 90)"
+Verify Hover -> Hover over Shop Plans,Cursor should display as pointer until hovering over Shop Plans display a hand CSS
+Verify navigation to Availability link->  Click on Shop Plans,Follow webpage should display with no errors->https://internet.frontier.com/phone.html
+Navigate back to Landing page from Availability-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+,
+,
+Product Section: Bundles,
+Verify Header Spelling>  Select Bundles,"Text should display ""Bundles"""
+Verify Icon(Bundles)-> Select Bundles image,"Icon graphic display Bundles ( TV, phone, laptop)"
+Verify Border-> Bundles,box-sizing: border-box; margin: 15px 0px;padding: 0px;border: 0px; 
+Verify (checked section) Spelling>  Big-time monthly savings,"Text should display "" Big-time monthly savings"""
+Verify (checked section) Font size/style >Big-time monthly savings,Display Font size: 14px;Ariel;checkmark icon
+Verify (checked section) Color-> Select Big-time monthly savings,"Display Color: rgb(90, 90, 90)"
+Verify (checked section) Spelling> One reliable provider,"Text should display ""One reliable provider"""
+Verify (checked section) Font size/style > One reliable provider,Display Font size: 14px;Ariel;Checkmark icon
+Verify (checked section) Color-> One reliable provider,"Display Color: rgb(90, 90, 90)"
+Verify Hover -> Hover over Shop Bundles,Cursor should display as pointer until hovering over Shop Bundles display a hand CSS
+Verify navigation to Availability link->  Click on Shop Bundles,Follow webpage should display with no errors->https://internet.frontier.com/bundles/
+Navigate back to Landing page from Availability-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
