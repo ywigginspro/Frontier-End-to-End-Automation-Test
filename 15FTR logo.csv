@@ -1,0 +1,29 @@
+﻿Action,Expected Result
+FTR logo- Legal,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Logo image>  Select FTR,"Text should display ""FTR"" from URL image"
+Verify Header Font size/alignment >Select FTR,Display Font size:ht: 39px;width: 77px Align: Vertical
+,
+Navigation Legal (FTR):  Privacy Policy,
+Verify Navigation Header display-> Select Privacy Policy,"Display Text should display ""Privacy Policy"""
+Verify Header Font size >Select Privacy Policy,Display Font size: 1.4rem
+Verify Font Color >Privacy Policy,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Privacy Policy,Cursor should display as pointer until hovering over Privacy Policy display a hand CSS.
+Verify navigation  link->  Go to FTR ->Click on Privacy Policy,Follow webpage should display with no errors-https://internet.frontier.com/privacy.html
+Navigate back to Landing page from Privacy Policy-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Legal (FTR):  Terms & Conditions,
+Verify Navigation Header display-> Select  Terms & Conditions,"Display Text should display "" Terms & Conditions"""
+Verify Header Font size >Select  Terms & Conditions,Display Font size: 1.4rem
+Verify Font Color > Terms & Conditions,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Terms & Conditions,Cursor should display as pointer until hovering over Privacy Policy display a hand CSS.
+Verify navigation  link->  Go to FTR ->Click on  Terms & Conditions,Follow webpage should display with no errors-https://internet.frontier.com/terms.html
+Navigate back to Landing page from  Terms & Conditions-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Legal (FTR):  Accessibility,
+Verify Navigation Header display-> Select  Accessibility,"Display Text should display "" Accessibility"""
+Verify Header Font size >Select  Accessibility,Display Font size: 1.4rem
+Verify Font Color > Accessibility,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Accessibility,Cursor should display as pointer until hovering over Privacy Policy display a hand CSS.
+Verify navigation  link->  Go to FTR ->Click on  Accessibility,Follow webpage should display with no errors-https://internet.frontier.com/accessibility.html
+Navigate back to Landing page from Accessibility-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
