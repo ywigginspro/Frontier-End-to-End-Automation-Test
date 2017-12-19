@@ -1,0 +1,41 @@
+﻿Action,Expected Result
+Headline: High-Speed Internet ,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify White textbox displays> Select White text,"Text box display: width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 1200px;"
+Verify Media Image displays> Select Image,"Media only screen and (min-width: 1025px) 
+background-image: url(../images/backgrounds/bg-hero-home-tablet.png);"
+Verify Header Spelling>  Select  High-speed Internet ,"Text should display ""High-speed Internet"""
+Verify Header Font size/style >Select  High-speed Internet,Display Font size: 5.1rem;Ariel
+Verify Header Color-> Select High-speed Internet,Display Color: #5a5a5a; Bold
+Verify Header Spelling>  Select  Low-low Price,"Text should display ""Low-low Price"""
+Verify Header Font size >Select  Low-low Price,Display Font size:  5.1rem;Ariel
+Verify Header Color-> Select  Low-low Price,Display Color: #5a5a5a; Bold
+Verify Header Spelling>  Select  The speeds you need at a price you'll love,"Text should display ""The speeds you need at a price you'll love"""
+Verify Header Font size >Select  The speeds you need at a price you'll love,Display Font size:  5.1rem;Ariel
+Verify Header Color-> Select  The speeds you need at a price you'll love,Display Color: #5a5a5a
+Verify Header Spelling>  Select  Frontier Internet Starting at,"Text should display "" Frontier Internet Starting at"""
+Verify Header Font size >Select Frontier Internet Starting at,Display Font size:  10px;Ariel
+Verify Header Color-> Select Frontier Internet Starting at,Display Color: #5a5a5a
+Verify Currency format>  Select Currency,"Currency should display: Content Currency '$' Class=Dollar""19 "" Cents"".99"" Content:'99/mo. [footnote 2]"
+Verify Header Font size >Select Currency,Display Font size: 8px;Ariel
+Verify Header Color-> Select  Currency,Display Color: #5a5a5a
+"Verify Header Spelling>  Select  for yr. 1, $34.99 for yr. 2. Includes $50 Amazon.com gift card with 2 yr. agmt.","Text should display "" for yr. 1, $34.99 for yr. 2. Includes $50 Amazon.com gift card with 2 yr. agmt."""
+"Verify Header Font size >Select for yr. 1, $34.99 for yr. 2. Includes $50 Amazon.com gift card with 2 yr. agmt.",Display Font size:  .8rem;Ariel
+"Verify Header Color-> for yr. 1, $34.99 for yr. 2. Includes $50 Amazon.com gift card with 2 yr. agmt.",Display Color: #5a5a5a;Block
+,
+,
+,
+,
+Navigation: Shop Internet button,
+Verify Header Spelling>  Select  Shop Internet,"Text should display ""Shop Internet"""
+Verify Header Font size/Style >Select  Shop Internet,Display Font size: 1.4 rem;Ariel
+Verify Background Color-> Select Shop Internet,Display Color: ##f3323d;
+Verify Header Shape display-> Select Shop Internet,Display  oval
+Verify Hover -> Hover over Shop Internet,Cursor should display as pointer until hovering over Shop Online display a hand CSS
+Verify navigation to Shop Online link->  Click on Shop Internet,Webpage should display with no errors->https://internet.frontier.com/services/
+Navigate back to Landing page from Business-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
