@@ -1,0 +1,12 @@
+﻿Action,Expected Result
+Header: Shop Online,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Header image>  Select  Shop Online (Cart),Image should display Shopping cart 
+Verify Header Spelling>  Select  Shop Online,"Text should display ""Shop Online"""
+Verify Header Font size/Style >Select  Shop Online,Display Font size: 1.4 rem;Ariel
+Verify Header Color-> Select Shop Online,Display Color: #FF0000;
+Verify Header background color for hover-> Shop Online,Display Color: #FF8000;
+Verify Header Shape display-> Select Shop Online,Display should be Oval;
+Verify Hover -> Hover over Shop Online,Cursor should display as pointer until hovering over Shop Online display a hand CSS
+Verify navigation to Shop Online link->  Click on Shop Online ,Follow webpage should display with no errors->https://internet.frontier.com/cart/address
+Navigate back to Landing page from Shop Online-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
