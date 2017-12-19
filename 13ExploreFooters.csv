@@ -1,0 +1,26 @@
+﻿Action,Expected Result
+Footer: Explore Frontier,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Footer Spelling>  Select Explore Frontier,"Text should display ""Explore Frontier"""
+Verify Header Font size >Select Explore Frontier,Display Font size: 1.8 rem
+Verify Header Color-> Select Explore Frontier,Display Color: #58595b;Bold 
+,
+Navigation Footer(Explore Frontier): Resources,
+Verify Navigation Header display-> Select Resources,"Display Text should display ""Resources"""
+Verify Header Font size >Select Resources,Display Font size: 1.4rem
+Verify Font Color >Resources,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Resources,Cursor should display as pointer until hovering over Resources display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Explore Frontier->Click on Resources,Follow webpage should display with no errors->https://internet.frontier.com/resources/
+,
+Navigation Footer(Explore Frontier): Espanol,
+Verify Navigation Header display-> Select Espanol,"Display Text should display ""Resources"""
+Verify Header Font size >Select Espanol,Display Font size: 1.4rem
+Verify Font Color >Espanol,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Espanol,Cursor should display as pointer until hovering over Espanol display a hand CSS. Text color should highlight color:#ff0000;
+Verify navigation  link->  Go to Explore Frontier->Click on Resources,Follow webpage should display in Espanol with no errors->https://internet.frontier.com/espanol/ 
+Navigate back to Landing page from Espanol-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+,
+,
+,
+,
