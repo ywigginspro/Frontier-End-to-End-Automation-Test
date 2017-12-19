@@ -1,0 +1,44 @@
+﻿Action,Expected Result
+Footer: Bundle & Save,
+Go to Navigation bar enter ->https://internet.frontier.com/,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+Verify Footer Spelling>  Select Bundle & Save,"Text should display ""Bundle & Save"""
+Verify Header Font size >Select Bundle & Save,Display Font size: 1.8 rem
+Verify Header Color-> Select Bundle & Save,Display Color: #58595b;Bold 
+,
+Navigation Footer(Bundle & Save): Plans & Pricing,
+Verify Navigation Header display-> Select Plans & Pricing,"Display Text should display ""Plans & Pricing"""
+Verify Header Font size >Select Plans & Pricing,Display Font size: 1.4rem
+Verify Font Color >Plans & Pricing,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Plans & Pricing,Cursor should display as pointer until hovering over Plans & Pricing display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Bundle & Save ->Click on Plans & Pricing,Follow webpage should display with no errors->https://internet.frontier.com/plans-pricing.html/
+Navigate back to Landing page from Services-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Footer(Bundle & Save): Add Frontier Secure,
+Verify Navigation Header display-> Select Add Frontier Secure,"Display Text should display ""Add Frontier Secure"""
+Verify Header Font size >Select Add Frontier Secure,Display Font size: 1.4rem
+Verify Font Color >Add Frontier Secure,Display Font Color: #5a5a5a
+Verify Hover -> Hover over Home Phone,Cursor should display as pointer until hovering over Add Frontier Secure display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Bundle & Save->Click on Add Frontier Secure,Follow webpage should display with no errors-https://internet.frontier.com/security.html
+Navigate back to Landing page from Phone-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+Navigation Footer(Bundle & Save): View All Bundles,
+Verify Navigation Header display-> Select View All Bundles,"Display Text should display "" View All Bundles"""
+Verify Header Font size >Select View All Bundles,Display Font size: 1.4rem
+Verify Font Color >View All Bundles,Display Font Color: #5a5a5a
+Verify Hover -> Hover over  View All Bundles,Cursor should display as pointer until hovering over  View All Bundles display a hand CSS. Text color should highlight color: #ff0000;
+Verify navigation  link->  Go to Bundle & Save ->Click on  View All Bundles,Follow webpage should display with no errors-https://internet.frontier.com/bundles/
+Navigate back to Landing page from FiOS-> Click on Frontier logo,Frontier Communications Landing page (https://internet.frontier.com/)displays no errors
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
